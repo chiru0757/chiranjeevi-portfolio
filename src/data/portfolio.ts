@@ -38,15 +38,10 @@ export const profile = {
   resumePdf: '/assets/Chiranjeevi_Resume.pdf',
 
   portrait: {
-<<<<<<< HEAD
-    src: '/chiranjeevi-portfolio/assets/portrait-720.webp',
-    srcSet: '/chiranjeevi-portfolio/assets/portrait-420.webp 420w, /chiranjeevi-portfolio/assets/portrait-720.webp 720w, /chiranjeevi-portfolio/assets/portrait-1100.webp 1100w',
-=======
-    src: '/assets/portrait-720.webp',
-    srcSet: '/assets/portrait-420.webp 420w, /assets/portrait-720.webp 720w, /assets/portrait-1100.webp 1100w',
->>>>>>> origin/main
-    alt: 'Portrait of Chiranjeevi',
-  },
+  src: '/chiranjeevi-portfolio/assets/portrait-720.webp',
+  srcSet: '/chiranjeevi-portfolio/assets/portrait-420.webp 420w, /chiranjeevi-portfolio/assets/portrait-720.webp 720w, /chiranjeevi-portfolio/assets/portrait-1100.webp 1100w',
+  alt: 'Portrait of Chiranjeevi',
+},
 
   interests: [
     'Full-Stack Development',
